@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://assets-v2.lottiefiles.com/a/1f961e82-116c-11ee-8354-2303d3b71743/vw6LrzVLM8.giff"/>
+  <img src="https://media1.tenor.com/m/kxiro8Eecb8AAAAd/coding.gif"/>
 </div>
 
 ###
@@ -25,11 +25,11 @@
 
 ###
 
-<p align="left"> Eu sou  Ana Beatriz, tenho 27 anos, casada, moro no estado de São Paulo/BR .<br><br>- 🔭 Sou formada em Analise e Desenvolvimento de Sistemas e atualmente estou em busca de novas oportunidades na área para ingressar como junior/Trainee <br>- 📚 Atualmente estou investindo em conhecimento para me tornar um profissional Full Stack <br>- ⚡ No meu tempo livre desenvolvo projetos práticos com linguagem de programação e estudo novas tecnologias</p>
+<p align="left"> Eu sou  Ana Beatriz, tenho 27 anos, casada, moro no estado de São Paulo/BR .<br><br>- 🔭 Formada em Analise e Desenvolvimento de Sistemas, atualmente em busca de novas oportunidades. <br>- 📚 Desenvolvedora de Software focada na transição para Full Stack. Apaixonado por criar soluções<br>- ⚡ No  tempo livre desenvolvo projetos práticos com linguagem de programação e estudo novas tecnologias através das plataformas: Dio, Bradesco, Fat/Escola técnica e You Tube.</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Linguagem e ferramentas</h3>
 
 ###
 
@@ -42,16 +42,9 @@
   <img src= "https://toppng.com/uploads/preview/php-logo-png-transparent-images-11660946419phax7xnlub.png" height="40" alt="go logo"> 
 </div>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
+<h3 align="left">🔥 Minhas estatísticas: </h3>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
 
 
